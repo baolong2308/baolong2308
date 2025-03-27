@@ -1,16 +1,17 @@
 
 
 ###
-<div align="center" style="display: flex; align-items: center; gap: 10px;">
+<div align="center">
 
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats graph" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" height="150" alt="streak graph" />
-  </div>
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="310" alt="top langs" />
-  </div>
+  <table border="0" style="border-collapse: collapse;">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats graph" /></td>
+      <td rowspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="350" alt="top langs" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" height="150" alt="streak graph" /></td>
+    </tr>
+  </table>
 
 </div>
 
