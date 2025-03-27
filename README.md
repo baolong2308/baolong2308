@@ -19,7 +19,7 @@
       <img 
         src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" 
         alt="streak graph" 
-        style="width: 10; height: 10; object-fit: cover;">
+        style="width: 5; height: 10; object-fit: cover;">
     </div>
   </div>
 
