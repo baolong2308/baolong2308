@@ -5,19 +5,19 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="display: flex; flex-direction: row; border: 2px solid black;">
     <!-- Cột bên trái -->
-    <div style="display: flex; flex-direction: column; width: 50%; border-right: 2px solid black;">
+    <div style="display: flex; flex-direction: column; width: 150px; border-right: 2px solid black;">
       <img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
            alt="stats graph" 
-           style="display: block; width: 100%; border-bottom: 2px solid black;">
+           style="display: block; width: 150px; border-bottom: 2px solid black;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" 
            alt="streak graph" 
-           style="display: block; width: 100%;">
+           style="display: block; width: 150px;">
     </div>
     <!-- Cột bên phải -->
     <div style="width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
            alt="stats graph" 
-           style="display: block; width: 100%;">
+           style="display: block; width: 150px;">
     </div>
   </div>
 </div>
