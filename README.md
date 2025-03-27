@@ -10,7 +10,7 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" alt="streak graph" height="150" style="display: block;">
   </div>
   
-  <!-- Ảnh 2: hình vuông với chiều cao 300px, width 300px -->
+
   
 </div>
 
