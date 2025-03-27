@@ -1,7 +1,7 @@
 
 
 ###
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&hide_progress=true)
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
