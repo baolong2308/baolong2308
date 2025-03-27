@@ -19,16 +19,16 @@
       <img 
         src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" 
         alt="streak graph" 
-        style="width: 100%; height: 100%; object-fit: cover;">
+        style="width: 10; height: 10; object-fit: cover;">
     </div>
   </div>
 
   <!-- Cột bên phải (1 ảnh chiếm hết chiều cao) -->
-  <div style="width: 50%; height: 100%;">
+  <div style="width: 5; height: 10;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
       alt="stats graph" 
-      style="width: 100%; height: 100%; object-fit: cover;">
+      style="width: 10; height: 10; object-fit: cover;">
   </div>
 
 </div>
