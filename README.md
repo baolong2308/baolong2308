@@ -5,7 +5,7 @@
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
    <img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" height="150" alt="streak graph"  />
 
 </div>
