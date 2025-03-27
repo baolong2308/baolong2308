@@ -1,15 +1,15 @@
 
 
 ###
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+<div align="center" style="display: grid; grid-template-columns: auto auto; gap: 10px; justify-content: center;">
 
   <!-- Ảnh GitHub Stats -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=radical&show_icons=true&count_private=true&hide_border=true" height="160" alt="stats graph">
   </div>
 
-  <!-- Ảnh Most Used Languages -->
-  <div>
+  <!-- Ảnh Most Used Languages (chiếm toàn bộ hàng 2) -->
+  <div style="grid-column: span 2; display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&theme=radical&layout=pie&show_icons=true&hide_border=true&count_private=true" height="350" alt="top langs">
   </div>
 
@@ -19,6 +19,7 @@
   </div>
 
 </div>
+
 
 
 
