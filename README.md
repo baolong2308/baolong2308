@@ -3,7 +3,7 @@
 ###
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <div style="display: flex; flex-direction: row; width: 300px; height: 300px; border: 2px solid black;">
+  <div style="display: flex; flex-direction: row; width: 200px; height: 200px; border: 2px solid black;">
     <!-- Cột bên trái -->
     <div style="display: flex; flex-direction: column; width: 50%; border-right: 2px solid black;">
       <div style="width: 100%; height: 50%; border-bottom: 2px solid black;">
