@@ -3,7 +3,7 @@
 ###
 
 <!-- Khung tổng 300x300 -->
-<div style="width: 100; height: 100; border: 2px solid black; display: flex; flex-direction: row;">
+<div style="width: 10; height: 10; border: 2px solid black; display: flex; flex-direction: row;">
 
   <!-- Cột bên trái (chia thành 2 hàng) -->
   <div style="width: 50%; height: 100%; border-right: 2px solid black; display: flex; flex-direction: column;">
