@@ -1,35 +1,11 @@
 
 
 ###
-
-<!-- Khung tổng 300x300 -->
-<div style="width: 10; height: 10; border: 2px solid black; display: flex; flex-direction: row;">
-
-  <!-- Cột bên trái (chia thành 2 hàng) -->
-  <div style="width: 5; height: 10; border-right: 2px solid black; display: flex; flex-direction: column;">
-    <!-- Hàng trên -->
-    <div style="flex: 1; border-bottom: 2px solid black;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
-        alt="stats graph" 
-        style="width: 10; height: 10; object-fit: cover;">
-    </div>
-    <!-- Hàng dưới -->
-    <div style="flex: 1;">
-      <img 
-        src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" 
-        alt="streak graph" 
-        style="width: 5; height: 10; object-fit: cover;">
-    </div>
-  </div>
-
-  <!-- Cột bên phải (1 ảnh chiếm hết chiều cao) -->
-  <div style="width: 5; height: 10;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
-      alt="stats graph" 
-      style="width: 10; height: 10; object-fit: cover;">
-  </div>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" max-width="150" alt="stats graph"  />
+   <img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" height="150" alt="streak graph"  />
 
 </div>
 
