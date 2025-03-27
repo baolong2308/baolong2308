@@ -5,7 +5,7 @@
 
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="170" alt="stats graph" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph" /></td>
       <td rowspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="300" alt="top langs" /></td>
     </tr>
     <tr>
