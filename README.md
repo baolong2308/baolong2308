@@ -5,11 +5,11 @@
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
    <img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" height="150" alt="streak graph"  />
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie)]
+
 ###
 
 <img align="right" height="180" src="https://github.com/user-attachments/assets/8609b600-7fec-49c0-ba9e-fb08b249128a"  />
