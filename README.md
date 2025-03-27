@@ -9,7 +9,7 @@
       <td rowspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie&theme=dark&show_icons=true&hide_border=true&count_private=true" height="350" alt="top langs" /></td>
     </tr>
     <tr>
-      <td><img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" height="150" alt="streak graph" /></td>
+      <td><img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308" height="150"  /></td>
     </tr>
   </table>
 
