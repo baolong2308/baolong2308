@@ -7,7 +7,7 @@
   <div style="display: flex; flex-direction: column; justify-content: space-between; height: 300px;">
     <img src="https://github-readme-stats.vercel.app/api?username=baolong2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="stats graph" height="150" style="display: block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolong2308&layout=pie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="stats graph" height="300" width="300" style="display: block; margin-left: 20px;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" alt="streak graph" height="150" style="display: block;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=baolong2308&theme=dark&hide_border=false" alt="streak graph" height="130" style="display: block;">
   </div>
   
 
